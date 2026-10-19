@@ -31,16 +31,10 @@ The system follows a sequence of steps:
 
 ## Project Screenshots
 
-1. Real-Time Pre-Fall Detection
-
- Pre-Fall Risk.png
-
+1. Real-Time-Pre-Fall-Detection.png
 This screen shows the system analyzing body movement and displaying its current detection status.
 
-2. Caregiver Dashboard
-
-Care Giver Alert.png
-
+2. Caregiver-Dashboard-png
 "Caregiver monitoring dashboard" (caregiver-dashboard.png)
 
 The dashboard provides a view of recorded alert events to support caregiver monitoring.
