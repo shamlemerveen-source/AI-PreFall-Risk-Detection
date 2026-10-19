@@ -31,9 +31,9 @@ The system follows a sequence of steps:
 
 ## Project Screenshots
 
-1. Real-Time-Pre-Fall-Detection.png
+ Real-Time-Pre-Fall-Detection.png
 
-2. Caregiver-Dashboard.png
+ Caregiver-Dashboard.png
 
 ## Technologies Used
 
