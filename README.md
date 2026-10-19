@@ -30,18 +30,9 @@ The system follows a sequence of steps:
 - Testing with recorded videos and real-time camera input.
 
 ## Project Screenshots
+ Real-Time-Pre-Fall-Detection.png
 
-1. Real-Time Pre-Fall Detection
-Screenshot 2026-10-10 152047.png
-
-This screen shows the system analyzing body movement and displaying its current detection status.
-
-2. Caregiver Dashboard
-Screenshot 2026-10-18 185054.png
-
-"Caregiver monitoring dashboard" (caregiver-dashboard.png)
-
-The dashboard provides a view of recorded alert events to support caregiver monitoring.
+Caregiver-Alert-Dashboard.png
 
 ## Technologies Used
 
