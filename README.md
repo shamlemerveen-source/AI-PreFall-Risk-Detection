@@ -30,9 +30,13 @@ The system follows a sequence of steps:
 - Testing with recorded videos and real-time camera input.
 
 ## Project Screenshots
- Real-Time-Pre-Fall-Detection.png
+1. Real-Time-Pre-Fall-Detection
+![image alt](https://github.com/shamlemerveen-source/AI-PreFall-Risk-Detection/blob/Fix-Image-Links/Real-Time-Pre-Fall-Detection.png?raw=true)
 
+
+2.Caregiver Alert System
  ![image alt](https://github.com/shamlemerveen-source/AI-PreFall-Risk-Detection/blob/Fix-Image-Links/Caregiver-Alert-Dashboard.png?raw=true)
+ 
 
 ## Technologies Used
 
