@@ -33,7 +33,7 @@ The system follows a sequence of steps:
 
  Real-Time-Pre-Fall-Detection.png
 
- Caregiver-Dashboard.png
+ Caregiver-Alert-Dashboard.png
 
 ## Technologies Used
 
