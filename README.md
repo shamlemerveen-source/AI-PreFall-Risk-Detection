@@ -32,7 +32,7 @@ The system follows a sequence of steps:
 ## Project Screenshots
  Real-Time-Pre-Fall-Detection.png
 
-Caregiver-Alert-Dashboard.png
+ ![image alt](https://github.com/shamlemerveen-source/AI-PreFall-Risk-Detection/blob/Fix-Image-Links/Caregiver-Alert-Dashboard.png?raw=true)
 
 ## Technologies Used
 
